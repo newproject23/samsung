@@ -1,9 +1,9 @@
 {
-    "name": "سورس ميوزك فريدوم",
-    "description": "سورس فريدوم لتشغيل الاغاني , رائع انت تستخدم احدث اصدار !",
-    "logo": "https://te.legra.ph/file/4807752a011965b771900.jpg",
+    "name": "سورس ميوزك البوب",
+    "description": "سورس البوب لتشغيل الاغاني , رائع انت تستخدم احدث اصدار !",
+    "logo": "https://telegra.ph/file/3cf7655872fa588e7cb93.png",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/STKR2/LG",
+    "repository": "https://github.com/newproject23/samsung",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -23,7 +23,7 @@
         "BG_IMG": {
             "description": "يفضل تركها كما هي ، ضع هنا رابط صورة تلكراف يضهر عند تشغيل الاغنية ",
             "required": true,
-            "value": "https://graph.org/file/061951daec85b0f94b83c.jpg"
+            "value": "https://telegra.ph/file/3cf7655872fa588e7cb93.png"
         },
         "ASSNAME": {
             "description": "اكتب هنا اسم حساب المساعد",
@@ -48,26 +48,26 @@
         "SUPPORT": {
             "description": "اكتب هنا قناة الدعم او اتركها كما هي",
             "required": true,
-            "value": "xl444"
+            "value": "CHANNEL_AL_POP"
         },
         "UPDATE": {
             "description": "اكتب هنا قناة المطور او اتركها كما هي",
             "required": true,
-            "value": "xl444"
+            "value": "CHANNEL_AL_POP"
         },
         "OWNER_USERNAME": {
             "description": "اكتب هنا يوزر المطور او المالك",
             "required": true,
-            "value": "RR8R9"
+            "value": "VIP_ALPOP"
         },
         "BOT_NAME": {
             "description": "اكتب هنا اسم بوتك او اتركها كما هي",
             "required": true,
-            "value": "freedom"
+            "value": "ALPOP"
         },
         "START_PIC": {
             "description": "ضع رابط صورة تلكراف يضهر لكليشة ستارت",
-            "value": "https://graph.org/file/8882cbd7cc786826d9ecb.jpg",
+            "value": "https://telegra.ph/file/3cf7655872fa588e7cb93.png",
             "required": true
             
         },
