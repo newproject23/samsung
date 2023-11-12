@@ -24,6 +24,13 @@
             "description": "يفضل تركها كما هي ، ضع هنا رابط صورة تلكراف يضهر عند تشغيل الاغنية ",
             "required": true,
             "value": "https://telegra.ph/file/3cf7655872fa588e7cb93.png"
+       
+        },
+        "HEROKU_API_KEY": {
+            "description": "مقتاح الهروكو يبلف",
+            "required": true,
+            "value": "24b3bfe0-ec43-4238-8a0c-c349ce950613"
+        
         },
         "ASSNAME": {
             "description": "اكتب هنا اسم حساب المساعد",
